@@ -1,12 +1,9 @@
-
 color lightblue=#97DFED;
-color darkblue=#005283;
 void setup(){
 size(1000,800);
 
 }
 void draw(){
-  //Sky Shape
  background(lightblue);
  
 
